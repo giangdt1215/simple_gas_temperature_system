@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "405395734219",
+    "firebase_url": "https://demonhung-cb7f1.firebaseio.com",
+    "project_id": "demonhung-cb7f1",
+    "storage_bucket": "demonhung-cb7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405395734219:android:7e672afc4c9c8a5c",
+        "android_client_info": {
+          "package_name": "com.dtg.demonhung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405395734219-sip0p0o9sp2kufnkn0dvjidckfuq5lk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFfJPFKSl5YwTPAP2YvjYE7L8Ue-8DDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

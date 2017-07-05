@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demonhung</string>
+    <string name="title">Thông tin</string>
+    <string name="text_nhiet_do">Nhiệt độ:</string>
+    <string name="text_do_am">Độ ẩm:</string>
+    <string name="text_co">Mật độ CO:</string>
+    <string name="text_smoke">Mật độ khói:</string>
+    <string name="text_lpg">Mật độ LPG:</string>
+
+    <string name="status_nong">Nóng</string>
+    <string name="status_binh_thuong">Bình Thường</string>
+    <string name="status_qua_nong">Quá nóng</string>
+    <string name="status_chay">Có biến!!!</string>
+    <string name="text_button">Tắt báo động</string>
+</resources>
